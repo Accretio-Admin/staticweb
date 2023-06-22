@@ -2,9 +2,9 @@
 // import './App.css';
 import React from 'react'; 
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Layout from './Layout';
-import Home from "../Pages/home";
-import Boot from '../Pages/about';
+//import Layout from './Layout';
+//import Home from "../Pages/home";
+//import Boot from '../Pages/about';
 import Referral from '../Pages/referral';
 
 function App() {
