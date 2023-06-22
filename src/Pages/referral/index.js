@@ -81,7 +81,11 @@ function Referral() {
       }, []);
 
     const onProceed = () => {
+      if(referral === "ref") {
+        window.location.href = "https://secure.unified.ph/retailerV2";
+      } else {
         window.location.href = `https://secure.unified.ph/retailerV2?referral=${referral}`;
+      }
     };
 
       // STYLES

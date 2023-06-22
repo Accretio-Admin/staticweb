@@ -14,6 +14,7 @@ function App() {
         <Routes>
           {/* <Route path="/" exact element={<Home />} /> */}
           {/* <Route path="/boot" element={<Boot />} /> */}
+          <Route path="/ref" element={<Referral />} />
           <Route path="/ref/:value" element={<Referral />} />
         </Routes>
       {/* </Layout> */}
