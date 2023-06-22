@@ -5,7 +5,7 @@ import Res from "../../Assets/Photo";
 // import Button from "../../Components/buttons/Button";
 import { useLocation } from 'react-router-dom';
 // import queryString from 'query-string';
-import Sample from '../../Components/buttons/Sample';
+//import Sample from '../../Components/buttons/Sample';
 
 
 function Referral() {
