@@ -1,8 +1,8 @@
 /* eslint-disable jsx-a11y/alt-text */
 import React from "react";
 import PropTypes from "prop-types";
-import Color from "../../Assets/Color";
-import Res from "../../Assets/Photo";
+//import Color from "../../Assets/Color";
+//import Res from "../../Assets/Photo";
 
 function Sample(props) {
 	const {label } = props;
